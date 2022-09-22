@@ -1,0 +1,57 @@
+*{
+    font-size: 14px;
+    font-family: 'DynaPuff', 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 4.5rem;
+    margin: 1rem;
+
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./frank-mckenna-CSeCKeW4TM0-unsplash.jpg);
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p {
+    font-size: 1.6rem;
+    flex-wrap: wrap;
+    max-width: 90%;
+}
+
+h6 {
+    font-size: 1.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1D1;
+    color: #fff;
+    border: 2px solid #12dd23;
+    border-radius: 10px;
+    height: 4rem;
+    width: 25rem;
+}
+
+h6:hover {
+    color: blue;
+    cursor:pointer;
+
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: cornsilk;
+    max-width: 65%;
+    min-height: 40%;
+    border-radius: 20px;
+    opacity: 65%;
+}
