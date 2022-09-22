@@ -1,3 +1,3 @@
 #This is a Codecademy project for learning
 
-This is an electroni type of fortune cookie
+This is an electronic type of fortune cookie
